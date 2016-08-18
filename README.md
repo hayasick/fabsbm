@@ -6,8 +6,8 @@ Kohei Hayashi, Takuya Konishi, Tatsuro Kawamoto.
 [arXiv:1602.02256](http://arxiv.org/abs/1602.02256), 2015
 
 ## Requirements
-* Numpy
-* Scipy
+* Numpy >= 1.8.2
+* Scipy >= 0.13.3
 
 If you want to reproduce the figure of our experiment, following R packages are required:
 
