@@ -7,8 +7,8 @@ arXiv:1602.02256, 2015
 
 ## Requirements
 * python 2.X
-* numpy >= 1.8.2
-* scipy >= 0.13.3
+* numpy >= 1.8.2 (older version is possibly OK)
+* scipy >= 0.13.3 (same here)
 
 If you want to reproduce the figure of our experiment, following R packages are required:
 
