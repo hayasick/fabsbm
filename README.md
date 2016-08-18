@@ -1,13 +1,14 @@
 # FABSBM
 An implementation of a tractable fully Bayesian method for the stochastic block model. For more details, see our paper:
 
-A Tractable Fully Bayesian Method for the Stochastic Block Model.
+[A Tractable Fully Bayesian Method for the Stochastic Block Model.](http://arxiv.org/abs/1602.02256)
 Kohei Hayashi, Takuya Konishi, Tatsuro Kawamoto.
-[arXiv:1602.02256](http://arxiv.org/abs/1602.02256), 2015
+arXiv:1602.02256, 2015
 
 ## Requirements
-* Numpy >= 1.8.2
-* Scipy >= 0.13.3
+* python 2.X
+* numpy >= 1.8.2
+* scipy >= 0.13.3
 
 If you want to reproduce the figure of our experiment, following R packages are required:
 
